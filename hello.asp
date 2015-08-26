@@ -1,3 +1,3 @@
 <%
-response.write("Hello From classic asp!" dfdsfsf)
+response.write("Hello From classic asp!")
 %>
